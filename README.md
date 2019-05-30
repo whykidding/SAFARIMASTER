@@ -1,2 +1,0 @@
-# SAFARIMASTER
-Created with CodeSandbox
